@@ -46,6 +46,7 @@ gcc -ansi -pedantic-errors -Wall -Wextra -g ../test/test_calculator.c ../src/cal
 ```
 
 Use test_calculator.c for testing or other files from projects of yours.
+
 ---
 
 ## How It Works
